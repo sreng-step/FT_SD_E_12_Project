@@ -8,6 +8,7 @@ IT STEP Academy students group E 12.
 4. Kimleng
 5. Chantha
 6. Vireakpong
+7. Samphors
 
 ## Loging github
 1. Clone a repo
