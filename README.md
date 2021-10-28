@@ -15,6 +15,6 @@ IT STEP Academy students group E 12.
 3. Commit with message
 4. Push to origin
 5. Check updates in gitHub website
-6. Solving conflicts with others when it happened
+6. Solving conflicts together with others when it happened
 7. Creating Tags
 8. Release
