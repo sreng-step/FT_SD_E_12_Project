@@ -10,8 +10,11 @@ IT STEP Academy students group E 12.
 6. Vireakpong
 
 ## Loging github
-1. Clone repo
-2. Edit or add new file
-3. Commit
-4. Push
-5. Check updates
+1. Clone a repo
+2. Edit or add new file using any text editor
+3. Commit with message
+4. Push to origin
+5. Check updates in gitHub website
+6. Solving conflicts when it happened
+7. Creating Tags
+8. Release
